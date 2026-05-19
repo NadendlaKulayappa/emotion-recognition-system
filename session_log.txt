@@ -1,0 +1,197 @@
+
+User:  I don't think I'm feeling well, I'm frustrated now.
+Emotion: anger
+AI: I'm frustrated now.
+
+User:  I am very happy today and my happiness has only been now.
+Emotion: joy
+AI: <think>
+Okay, the user is expressing joy and says their happiness is new. I need to respond with empathy and positivity. Let me make sure to acknowledge their happiness and maybe encourage them to cherish this moment. Keep it warm and natural. Let me avoid clichés and make it feel genuine. Maybe add a positive note about carrying this joy forward. Let me check the sentence structure to keep it within
+
+User:  I am feeling very happy today and my happiness has no limit.
+Emotion: joy
+AI: 😄 That’s awesome! Enjoy your happy moment — it’s great to feel this way. Would you like to share what made you so happy?
+
+User:  I'm feeling frustrated today, I don't know reason
+Emotion: anger
+AI: 😤 It seems something upset you. Want to share what’s been bothering you so I can help?
+
+User:  Hello.
+Emotion: neutral
+AI: 🙂 Got it. You seem calm — anything you’d like to talk about?
+
+User: hello how are you
+Text Emotion: neutral
+Face Emotion: neutral
+Final Emotion: neutral
+AI: You seem fairly calm right now. If there's something on your mind, you can tell me.
+
+User:  Продолжение следует...
+Text Emotion: neutral
+Face Emotion: neutral
+Final Emotion: neutral
+AI: You seem fairly calm right now. If there's something on your mind, you can tell me.
+
+User:  .
+Text Emotion: neutral
+Face Emotion: neutral
+Final Emotion: neutral
+AI: You seem fairly calm right now. If there's something on your mind, you can tell me.
+
+User:  సిలోవ హలో హలో హీలో హలో ఇలో కాలో కిసారు పోడిస్ కిరుజ కోడాకుడిస్ కిరుగ్యం
+Text Emotion: neutral
+Face Emotion: neutral
+Final Emotion: neutral
+AI: You seem fairly calm right now. If there's something on your mind, you can tell me.
+
+Time: 2026-04-05 22:25:22.831291
+User:  Hi, how are you? Today has been a really wonderful day for me. Everything seems to be going perfectly and I feel very positive about everything around me.
+Text Emotion: joy
+Face Emotion: happy
+Final Emotion: joy
+AI: That’s great to hear! What made you feel so happy?
+----------------------------------------
+
+Time: 2026-04-05 22:26:49.245804
+User:  Hi, how are you? Today has been a really wonderful day for me. Everything seems to be going perfectly and I feel very positive about everything around me.
+Text Emotion: joy
+Face Emotion: angry
+Final Emotion: joy
+AI: That’s great to hear! What made you feel so happy?
+----------------------------------------
+
+Time: 2026-04-05 22:26:52.068128
+User:  Hi, how are you? Today has been a really wonderful day for me. Everything seems to be going perfectly and I feel very positive about everything around me.
+Text Emotion: joy
+Face Emotion: angry
+Final Emotion: joy
+AI: That’s great to hear! What made you feel so happy?
+----------------------------------------
+
+Time: 2026-04-05 22:38:36.137982
+User:  Hi, how are you? Today has been a really wonderful day for me. Everything seems to be going perfectly and I feel very positive about everything around me.
+Text Emotion: joy
+Face Emotion: happy
+Final Emotion: joy
+AI: I sense a mismatch between what you're saying and how you're feeling. Want to talk about it?
+----------------------------------------
+
+Time: 2026-04-05 22:39:09.819485
+User:  Hi, how are you? Today has been a really wonderful day for me. Everything seems to be going perfectly and I feel very positive about everything around me.
+Text Emotion: joy
+Face Emotion: neutral
+Final Emotion: joy
+AI: I sense a mismatch between what you're saying and how you're feeling. Want to talk about it?
+----------------------------------------
+
+Time: 2026-04-05 22:43:38.484112
+User:  Hi, how are you? Today has been a really wonderful day for me. Everything seems to be going perfectly and I feel very positive about everything around me.
+Text Emotion: joy
+Face Emotion: happy
+Final Emotion: joy
+AI: I sense a mismatch between what you're saying and how you're feeling. Do you want to talk about it?
+----------------------------------------
+
+Time: 2026-04-05 22:43:39.849656
+User:  Hi, how are you? Today has been a really wonderful day for me. Everything seems to be going perfectly and I feel very positive about everything around me.
+Text Emotion: joy
+Face Emotion: happy
+Final Emotion: joy
+AI: I sense a mismatch between what you're saying and how you're feeling. Do you want to talk about it?
+----------------------------------------
+
+Time: 2026-04-05 22:44:03.378374
+User:  Hi, how are you? Today has been a really wonderful day for me. Everything seems to be going perfectly and I feel very positive about everything around me.
+Text Emotion: joy
+Face Emotion: angry
+Final Emotion: angry
+AI: I sense a mismatch between what you're saying and how you're feeling. Do you want to talk about it?
+----------------------------------------
+
+Time: 2026-04-05 22:45:05.436834
+User:  Hi, how are you? Today has been a really wonderful day for me. Everything seems to be going perfectly and I feel very positive about everything around me.
+Text Emotion: joy
+Face Emotion: sad
+Final Emotion: sad
+AI: I sense a mismatch between what you're saying and how you're feeling. Do you want to talk about it?
+----------------------------------------
+
+Time: 2026-04-05 22:46:31.299256
+User:  Today has been a very difficult day for me. I feel a deep sense of sadness that I cannot easily explain things have not been going the way I hoped and I feel like every effort I make end up in discipline.
+Text Emotion: sadness
+Face Emotion: sad
+Final Emotion: sadness
+AI: I sense a mismatch between what you're saying and how you're feeling. Do you want to talk about it?
+----------------------------------------
+
+Time: 2026-04-05 23:16:53.563523
+User:  Today has been a very difficult day for me. I feel a deep sense of sadness that I cannot easily explain. Things have not been going the way I hoped and it feels like every effort I make ends up in disappointment. I keep thinking about the mistakes I made and the opportunities I lost and it makes me feel even more upset.
+Text Emotion: sadness
+Face Emotion: neutral
+Final Emotion: sadness
+AI: I sense a mismatch between what you're saying and how you're feeling. Do you want to talk about it?
+----------------------------------------
+
+Time: 2026-04-05 23:18:04.507321
+User:  Today has been a very difficult day for me. I feel a deep sense of sadness that I cannot easily explain. Things have not been going the way I hoped and it feels like every effort I make ends up in disappointment. I keep thinking about the mistakes I made and the opportunities I lost and it makes me feel even more upset.
+Text Emotion: sadness
+Face Emotion: sad
+Final Emotion: sadness
+AI: I sense a mismatch between what you're saying and how you're feeling. Do you want to talk about it?
+----------------------------------------
+
+Time: 2026-04-05 23:18:07.562345
+User:  Today has been a very difficult day for me. I feel a deep sense of sadness that I cannot easily explain. Things have not been going the way I hoped and it feels like every effort I make ends up in disappointment. I keep thinking about the mistakes I made and the opportunities I lost and it makes me feel even more upset.
+Text Emotion: sadness
+Face Emotion: sad
+Final Emotion: sadness
+AI: I sense a mismatch between what you're saying and how you're feeling. Do you want to talk about it?
+----------------------------------------
+
+Time: 2026-04-05 23:19:49.433916
+User:  I am extremely frustrated with what happened today. Everything went completely wrong and it felt like no one even cared about fixing the situation. I worked very hard on this task but my efforts were ignored and nobody appreciated the time and energy I invested.
+Text Emotion: anger
+Face Emotion: angry
+Final Emotion: anger
+AI: I sense a mismatch between what you're saying and how you're feeling. Do you want to talk about it?
+----------------------------------------
+
+Time: 2026-04-05 23:25:57.541471
+User:  Today has been a really wonderful day for me. Everything seems to be going perfectly and I feel very positive about everything around me. I woke up with a lot of energy and motivation and throughout the day I had many pleasant experiences. Spending time with friends and family made me feel even happier and I realized how lucky I am to have such supportive people in my life.
+Text Emotion: joy
+Face Emotion: happy
+Final Emotion: joy
+AI: I sense a mismatch between what you're saying and how you're feeling. Do you want to talk about it?
+----------------------------------------
+
+Time: 2026-04-05 23:26:51.728547
+User:  Today has been a really wonderful day for me. Everything seems to be going perfectly and I feel very positive about everything around me. I woke up with a lot of energy and motivation and throughout the day I had many pleasant experiences. Spending time with friends and family made me feel even happier and I realized how lucky I am to have such supportive people in my life.
+Text Emotion: joy
+Face Emotion: angry
+Final Emotion: angry
+AI: I sense a mismatch between what you're saying and how you're feeling. Do you want to talk about it?
+----------------------------------------
+
+Time: 2026-04-05 23:48:31.785057
+User:  Today has been a really wonderful day for me. Everything seems to be going perfectly and I feel very positive about everything around me. I woke up with a lot of energy and motivation and throughout the day I had many pleasant experiences. Spending time with friends and family made me feel even happier and I realized how lucky I am to have such supportive people in my life.
+Text Emotion: joy
+Face Emotion: sad
+Final Emotion: sad
+AI: I sense a mismatch between what you're saying and how you're feeling. Do you want to talk about it?
+----------------------------------------
+
+Time: 2026-04-11 08:29:00.581162
+User:  I'm happy.
+Text Emotion: joy
+Face Emotion: sad
+Final Emotion: sad
+AI: I sense a mismatch between what you're saying and how you're feeling. Do you want to talk about it?
+----------------------------------------
+
+Time: 2026-05-19 19:31:09.060786
+User:  you
+Text Emotion: neutral
+Face Emotion: neutral
+Final Emotion: neutral
+AI: You seem calm. Anything on your mind?
+----------------------------------------
